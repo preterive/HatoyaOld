@@ -15,6 +15,12 @@
     {"id":40,"name":"Radio Hunter - The Country Channel","url":"http://live.hunterfm.com/country","pais":"Brasil"},
     {"id":39,"name":"Radio Hunter - The Hitz Channel","url":"http://listen.shoutcast.com/RadioHunter-TheHitzChannel","pais":"Brasil"},
     {"id":38,"name":"Radio Hunter - The Pop2K Hits Channel","url":"https://live.hunter.fm/pop2k","pais":"Brasil"},
-    {"id":37,"name":"Radio Hunter - The Fresh Channel","url":"https://live.hunter.fm/fresh","pais":"Brasil"}
-    
+    {"id":39,"name":"Radio Hunter - The Fresh Channel","url":"https://live.hunter.fm/fresh","pais":"Brasil"}
+    {"id":40,"name":"Alles Radio","url":"http://stream.laut.fm/alles-radio","pais":"EUA"}
+    {"id":41,"name":"Alles Chill","url":"http://stream.laut.fm/alles-chill","pais":"EUA"}
+    {"id":42,"name":"Alles Dance","url":"http://stream.laut.fm/alles-dance","pais":"EUA"}
+    {"id":43,"name":"Alles Techno","url":"http://stream.laut.fm/alles-techno","pais":"EUA"}
+    {"id":44,"name":"Alles Hardstyle","url":"http://stream.laut.fm/alles-hardstyle","pais":"EUA"}
+    {"id":45,"name":"Alles Klub","url":"http://stream.laut.fm/alles-klub","pais":"EUA"}
+
 ]
